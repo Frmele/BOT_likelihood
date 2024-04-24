@@ -21,9 +21,7 @@ To use this bot detection script:
 
 1. Copy the provided JavaScript function into your project.
 2. Integrate the function into your web application, preferably within your analytics or tracking code.
-3. Call the function when needed to determine the nature of the visitor.
 
-```javascript
-function botDetection() {
-  // Insert the bot detection script here
-}
+## Integrate in GTM
+
+Currently under template gallery evaluation, in meanwhile copy the code inside a custom javascript variable, create a custom dimension in GA4 or other endpoint. Deploy and have fun!
