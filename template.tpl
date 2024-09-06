@@ -1,10 +1,29 @@
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
 ___INFO___
 
 {
-  "displayName": "Example Template",
-  "categories": ["ANALYTICS"],
-  // additional template properties, etc...
+  "type": "MACRO",
+  "id": "cvt_temp_public_id",
+  "version": 1,
+  "securityGroups": [],
+  "displayName": "BOT detection score variable",
+  "categories": [
+    "ANALYTICS",
+    "UTILITY",
+    "TAG_MANAGEMENT"
+  ],
+  "description": "This template will help you detect and recognize BOT activity": [
+    "WEB"
+  ]
 }
+
 
 
 
