@@ -19,7 +19,7 @@ Based on the accumulated score from these criteria, the script determines whethe
 
 To use this bot detection script:
 
-1. Copy the provided JavaScript function into your project.
+1. Copy the provided JavaScript function into your project into variables.
 2. Integrate the function into your web application, preferably within your analytics or tracking code.
 
 ## Integrate in GTM
