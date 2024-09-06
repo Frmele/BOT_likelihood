@@ -17,5 +17,5 @@ documentation: "https://github.com/Frmele/BOT_likelyhood"
 
 versions:
   # Latest Version
-  - sha: 2da6d63a6a4ae1129915fe59fa67af56274b87d7
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
     changeNotes: Initial release.
