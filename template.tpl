@@ -1,3 +1,4 @@
+___INFO___
 {
   "template": {
     "name": "Bot Detection Scorer",
