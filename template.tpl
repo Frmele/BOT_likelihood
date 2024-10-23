@@ -12,22 +12,19 @@ ___INFO___
   "template": {
     "name": "Bot Detection Scorer",
     "description": "A template to determine if a user is a bot based on behavior and system properties.",
-    "author": "Your Name",
+    "author": "Francesca Mele",
     "templateType": "Variable",
     "permissions": {
       "access_globals": {
-        "key": "access_globals",
-        "access_globals": {
-          "window": [
-            "navigator",
-            "screen",
-            "outerWidth",
-            "innerWidth"
-          ],
-          "document": [
-            "addEventListener"
-          ]
-        }
+        "window": [
+          "navigator",
+          "screen",
+          "outerWidth",
+          "innerWidth"
+        ],
+        "document": [
+          "addEventListener"
+        ]
       }
     },
     "code": {
